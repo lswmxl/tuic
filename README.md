@@ -4,5 +4,5 @@ wget -N https://raw.githubusercontent.com/lswmxl/tuic/main/tuic.sh && bash tuic.
 ```
 
 ```
-bash <(curl -sSL app2122.ml/tuic)
+bash <(curl -sSL https://raw.githubusercontent.com/lswmxl/tuic/main/lswm-tuic.sh)
 ```
